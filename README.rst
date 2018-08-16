@@ -19,9 +19,7 @@ kalyke
      :alt: Updates
 
 
-
-A mixed-bag of graphing utilities for use in Jupyter notebook projects.
-
+Since most of my Jupyter projects require various graphing helpers and styles, this package has been created as a useful repository for this code so that it can be easily included in future projects.
 
 * Free software: MIT license
 * Documentation: https://kalyke.readthedocs.io.
