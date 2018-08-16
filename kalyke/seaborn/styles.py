@@ -2,8 +2,9 @@
 
 """Some default styling for seaborn."""
 
-class line:
-    
+class Line:
+    """Some seaborn line styles."""
+
     red = {
         'scatter_kws': {'color':'coral', 's':200, 'alpha': 0.5},
         'line_kws': {'color': 'coral', 'lw': 2}
